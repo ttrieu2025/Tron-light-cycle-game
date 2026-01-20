@@ -7,6 +7,8 @@ Players navigate colored pixels (red and blue) around the screen, avoiding obsta
 
 The game is implemented in C for a Nios II / RISC-V soft-core CPU running on the FPGA.
 
+![Game Demo](Tron.png)
+
 ## How It Works
 
 __Initialization__
